@@ -1,14 +1,18 @@
-# AI-Song-Cover-SOVITS
-All in One Version : Youtube WAV Download, Separating Vocal, Splitting Audio, Training, and Inference Using Google Colab.
-## Leave A Star if This Repo Was Helpful
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
-<a href="https://trakteer.id/ardha27">
-    <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35">
-</a>
+# Py - Song cover with SOVITS voice cloning
+This is a refactored code from the <a href="https://github.com/ardha27/AI-Song-Cover-SOVITS">original by ardha27</a>. <br>
+The refactored code has 2 notebooks, for voice inference (if you already have a sovits model), and for training (voice cloning).
 
+### Inference (if you already have sovits model)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisismyracle/py-sovits-song-cover/blob/main/SOVITS_Inference.ipynb)
 
-### Tutorial (Indonesian)
-https://youtu.be/v5MwAqQTc6Q
+### Training (if you wanna make new sovits model)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisismyracle/py-sovits-song-cover/blob/main/SOVITS_Training.ipynb)
 
-### Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-SOVITS/blob/main/AI_Song_Cover_SOVITS.ipynb)
+<br><br>
+
+## Flow
+### Inference flow
+![Inference flowchart](http://url/to/img.png)
+
+### Training flow
+![Training flowchart](http://url/to/img.png)
