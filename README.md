@@ -10,9 +10,15 @@ The refactored code has 2 notebooks, for voice inference (if you already have a 
 
 <br><br>
 
-## Flow
-### Inference flow
-![Inference flowchart](http://url/to/img.png)
+## Flowcharts
+<details>
+  <summary>Inference flowchart</summary>
+  <br>
+  <img src="https://github.com/thisismyracle/py-sovits-song-cover/blob/main/inference_flowchart.jpg">
+</details>
 
-### Training flow
-![Training flowchart](http://url/to/img.png)
+<details>
+  <summary>Training flowchart</summary>
+  <br>
+  <img src="https://github.com/thisismyracle/py-sovits-song-cover/blob/main/training_flowchart.jpg">
+</details>
